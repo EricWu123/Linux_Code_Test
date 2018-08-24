@@ -13,3 +13,4 @@ x := test
 exec:
 	echo $(foo) #spring hello
 	echo $(y) #fun
+	
